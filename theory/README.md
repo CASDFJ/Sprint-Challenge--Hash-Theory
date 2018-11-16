@@ -31,7 +31,8 @@
 > One of your instructors was once hired to implement VT-100 emulation
 > in an app, and they used a state machine to do it.
 
-<?xml version="1.0" standalone="no"?>
+![<?xml version="1.0" standalone="no"?>
+
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
 <svg width="800" height="600" version="1.1" xmlns="http://www.w3.org/2000/svg">
@@ -93,7 +94,7 @@
 	<polygon stroke="black" stroke-width="1" points="379.704,354.816 207.296,457.184"/>
 	<polygon fill="black" stroke-width="1" points="207.296,457.184 216.727,457.399 211.622,448.8"/>
 	<text x="281.5" y="396.5" font-family="Times New Roman" font-size="20">f</text>
-</svg>
+</svg>](http://madebyevan.com/fsm/img.png)
 
 ## Computation
 
